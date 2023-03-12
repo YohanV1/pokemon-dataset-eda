@@ -1,3 +1,3 @@
 # What is this project?
 
-This is a descriptive analysis of a pokemon dataset
+This is an exploratory descriptive analysis of a Pokémon dataset
